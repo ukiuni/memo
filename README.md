@@ -1,3 +1,3 @@
 memo
 ====
-tomokow is so auesome.
+tomokow is so awesome.
